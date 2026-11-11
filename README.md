@@ -22,6 +22,7 @@ Datos: [Formula 1 Race Dataset for Predictive Analysis](https://www.kaggle.com/d
 - `model.py`: las funciones que usa la app (cargar datos, preprocesar, entrenar, evaluar y predecir).
 - `requirements.txt`: librerías necesarias.
 - `data/f1_enhanced_dataset_for_analysis.csv`: el dataset.
+- `IAProyecto.pptx`: la presentación del primer corte.
 
 ## Estructura de la app
 
@@ -46,4 +47,4 @@ El notebook también se puede abrir directo en Google Colab: descarga los datos 
 
 ## Uso de IA
 
-Usamos Claude (Anthropic) como apoyo para planear, escribir y revisar código y adaptarlo al estilo de la clase. La declaración completa (herramienta, versión del modelo, para qué se usó y nuestros aportes) está en la sección 8 del notebook.
+Usamos Claude Code (Anthropic) como apoyo para planear, escribir y revisar código y adaptarlo al estilo de la clase. La declaración completa (herramienta, versión del modelo, para qué se usó y nuestros aportes) está en la sección 8 del notebook.
