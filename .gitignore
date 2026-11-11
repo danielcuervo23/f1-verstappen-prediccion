@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.claude/
+.superpowers/
+salidas_notebook/
+tests/
+docs/
+Second Term - Project.pdf
