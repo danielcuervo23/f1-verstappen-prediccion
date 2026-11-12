@@ -42,8 +42,8 @@ El notebook también se puede abrir directo en Google Colab: descarga los datos 
 
 ## Enlaces
 
-- App en Streamlit: (pendiente)
-- Notebook en Colab: (pendiente)
+- App en Streamlit: https://f1-verstappen-prediccion.streamlit.app/
+- Notebook en Colab: https://colab.research.google.com/github/danielcuervo23/f1-verstappen-prediccion/blob/main/notebook_proyecto.ipynb
 
 ## Uso de IA
 
