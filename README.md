@@ -47,4 +47,4 @@ El notebook también se puede abrir directo en Google Colab: descarga los datos 
 
 ## Uso de IA
 
-Usamos Claude Code (Anthropic) como apoyo para planear, escribir y revisar código y adaptarlo al estilo de la clase. La declaración completa (herramienta, versión del modelo, para qué se usó y nuestros aportes) está en la sección 8 del notebook.
+Usamos Claude Code (Anthropic) como apoyo para planear, escribir y revisar código. La declaración completa (herramienta, versión del modelo, para qué se usó y nuestros aportes) está en la sección 8 del notebook.
